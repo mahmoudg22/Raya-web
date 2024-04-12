@@ -1,0 +1,5 @@
+pip 
+Django
+Pillow
+gunicorn
+python-dotenv
